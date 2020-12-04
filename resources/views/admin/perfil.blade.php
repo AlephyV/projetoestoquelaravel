@@ -7,7 +7,7 @@
 @section('conteudo')
 
 <div class="container">
-    <h4><b>Perfil da ONG</b>
+    <h4><b>Perfil da ONG {{storage_path('app/public/ong/'.$ong->imagem)}}</b>
     </h4>
 </div>
 
