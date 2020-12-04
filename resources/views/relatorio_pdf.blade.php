@@ -12,7 +12,7 @@
             </td>
             <td>
             <img src="{{storage_path('app/public/ong/'.$data['ong']['logo'])}}" alt="Logo Empresa">
-            {{storage_path('app/public/ong/'.$data['ong']['logo'])}}
+            
             </td>
             <td align="right" style="padding-right: 50px; vertical-align:middle;text-align:right;">
                 <h3 id="title" style="font-family: 'Noto Sans JP', sans-serif; color:#fff">Relatório de Uso</h3>
